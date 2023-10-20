@@ -1,4 +1,4 @@
----
+//1---
 name: ChatGPT + Enterprise data
 description: Chat with your data using OpenAI and Cognitive Search.
 languages:
